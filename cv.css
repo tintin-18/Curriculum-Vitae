@@ -1,4 +1,4 @@
-body{background-color: skyblue;
+body{background-color: beige;
 }
 
 h1
@@ -7,7 +7,7 @@ h1
   font-family: sans-serif;
   font-size: 40px;
   letter-spacing: 5px;
-  background-color: slateblue;
+  background-color: beige;
   text-decoration-line: underline ;
 }
 
@@ -44,3 +44,13 @@ h3{
 datos{
   color: rgb(114, 107, 41)
 }
+e{
+  color: rgb(127, 134, 63);
+  text-decoration-line: underline;
+  font-style: italic
+}
+img {
+  float: right;
+  position: relative;
+  margin-bottom: 15px;
+  margin-right: 10px;}
