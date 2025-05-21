@@ -125,11 +125,13 @@ img {
   text-align: center;
   color: beige;
 }
-footer img{
-  position: relative;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  margin-right: 10px;
+.footer-banner {
+  background-image: url('curriculumpng.png'); 
+  background-repeat: repeat-x; 
+  background-position: center; 
+  background-size: 15px auto; 
+  height: 20px; 
+  margin: 10px 0;
 }
 li p img{
   position: relative;
