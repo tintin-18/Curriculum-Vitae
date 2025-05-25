@@ -17,12 +17,13 @@
 
 }
 #sidebar {
-  position: fixed;
+ position: fixed;
   width: 225px;
   height: 100%;
   background: #151719;
   left: -225px;
   transition: all 500ms linear;
+  top: 0;
 }
 
 #sidebar.active {
@@ -137,4 +138,10 @@ li p img{
   position: relative;
   float: left;
   
+}
+
+.contenedor {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
 }
