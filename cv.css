@@ -65,13 +65,10 @@
 body{
     background-color: beige;     
   }
-header h1 {
+header {
   text-align: center;
   font-family: sans-serif;
-  font-size: 40px;
-  letter-spacing: 5px;
   background-color: beige;
-  text-decoration-line: underline ;
 }
 
 body p{  text-align: center;
@@ -144,4 +141,10 @@ li p img{
   max-width: 900px;
   margin: 0 auto;
   padding: 20px;
+  background-color: black;
+}
+
+.yologo {
+  width: 45%;
+  margin: 0 auto;
 }
