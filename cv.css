@@ -148,3 +148,13 @@ li p img{
   width: 45%;
   margin: 0 auto;
 }
+
+@media (max-width: 755px) {
+  h2 {
+    color: beige;
+  }
+  #sidebar {
+  z-index: 1000;
+}
+
+}
