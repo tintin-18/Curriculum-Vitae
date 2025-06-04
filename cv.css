@@ -149,6 +149,10 @@ li p img{
   margin: 0 auto;
 }
 
+.anios-mobile {
+  display: none;
+}
+
 @media (max-width: 755px) {
   h2 {
     color: beige;
@@ -158,3 +162,14 @@ li p img{
 }
 
 }
+
+@media (max-width: 390px) {
+  .anios {
+      display: none;
+  }
+  .anios-mobile {
+    display: block;
+   text-align: center;
+  }
+}
+
